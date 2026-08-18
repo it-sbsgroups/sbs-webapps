@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+/dist
+
+# Environment variables
+.env
+*.env
+.env.*
+!.env.example
+
+.pdf
+.docx
+.txt
+
+.zip
+
+# OS files
+.DS_Store
+Thumbs.db
